@@ -3,7 +3,7 @@ def display(color)
   puts "red:#{color[0]}, green#{color[1]}"
 end
 color = ["red", "green"]
-
+display(color)
 
 def business_card (person)
   puts "Name:#{person[0]}, Age:#{person[1]}, Occupation:#{person[2]}"

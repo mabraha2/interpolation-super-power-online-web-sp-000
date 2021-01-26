@@ -2,6 +2,7 @@
 def display(color)
   puts "RED:#{color[0]}, "GREEN:#{color[1]"
 end
+end
 color = ["red", "green"]
   display(color)
 
